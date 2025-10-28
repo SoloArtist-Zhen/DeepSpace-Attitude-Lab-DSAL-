@@ -36,8 +36,8 @@ streamlit run app.py
 > 第一次运行：点击左侧参数后，按下 **Run Simulation**，即可生成图表与动画。默认参数即可出效果。
 
 **占位图（仓库封面/动图）：**
+<img width="1183" height="775" alt="截屏2025-10-29 05 36 07" src="https://github.com/user-attachments/assets/f33abbd3-eba4-401d-8431-daaabbdc3152" />
 
-![截屏2025-10-29 05.36.07.png](../../Desktop/%E6%88%AA%E5%B1%8F2025-10-29%2005.36.07.png)
 ---
 
 ## 项目亮点
@@ -52,7 +52,8 @@ streamlit run app.py
 - 🧪 **多控制器**：Detumble、PID、LQR，支持对比能量衰减与控制代价。
 
 **占位图（功能一览）：**
-![Features Overview 占位](docs/img/features_overview.png) <!-- TODO: 替换为功能总览图 -->
+
+<img width="736" height="247" alt="截屏2025-10-29 05 44 38" src="https://github.com/user-attachments/assets/1f51451a-aa73-4e46-be5d-91a700b5217f" />
 
 ---
 
@@ -67,7 +68,7 @@ streamlit run app.py
    - **📦 Exports**：一键导出 ZIP/PPTX
 
 **占位图（UI 引导）：**
-![UI Guide 占位](docs/img/ui_guide.png) <!-- TODO: 替换为带标注的 UI 截图 -->
+![Features Overview 占位](docs/img/features_overview.png) <!-- TODO: 替换为功能总览图 -->
 
 ---
 
